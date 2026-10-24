@@ -1,5 +1,4 @@
- 
-## Hello, I am kelson8
+Hello, my name is Kelson.
 
 This will about have some info about me and where I host all of my projects.
 
