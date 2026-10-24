@@ -17,7 +17,7 @@ Here is a list of Git services that I host my public code on
 **Discord**
 
 I have a Discord that anyone can join.
-* discord.gg/vF2fBcPKHP
+* https://discord.gg/vF2fBcPKHP
 
 **Blog**
 
