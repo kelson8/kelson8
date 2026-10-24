@@ -1,6 +1,6 @@
 Hello, my name is Kelson.
 
-This will about have some info about me and where I host all of my projects.
+This will have some info about me and where I host all of my projects.
 
 Eventually I will get around to adding screenshots to some of my test projects.
 
